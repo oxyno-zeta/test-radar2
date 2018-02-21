@@ -41,7 +41,7 @@
     "gulp-tar": "^1.9.0",
     "mocha-lcov-reporter": "^1.2.0",
     "run-sequence": "^1.2.2",
-    "supertest": "^2.0.1"
+    "supertest": "3.0.0"
   },
   "dependencies": {
     "joi": "^10.2.0"
