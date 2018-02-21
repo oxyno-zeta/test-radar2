@@ -44,6 +44,6 @@
     "supertest": "^2.0.1"
   },
   "dependencies": {
-    "joi": "^10.2.0"
+    "joi": "13.1.2"
   }
 }
