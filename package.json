@@ -40,7 +40,7 @@
     "gulp-nodemon": "^2.2.1",
     "gulp-tar": "^1.9.0",
     "mocha-lcov-reporter": "^1.2.0",
-    "run-sequence": "^1.2.2",
+    "run-sequence": "2.2.1",
     "supertest": "^2.0.1"
   },
   "dependencies": {
